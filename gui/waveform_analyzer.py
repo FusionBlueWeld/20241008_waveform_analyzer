@@ -277,3 +277,4 @@ class WaveformAnalyzer(ctk.CTkFrame):
 
     def exit_app(self):
         self.master.quit()
+
